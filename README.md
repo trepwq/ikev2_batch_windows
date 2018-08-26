@@ -1,0 +1,2 @@
+# ikev2_batch_windows
+windows一键添加ikev2脚本
